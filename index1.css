@@ -110,6 +110,7 @@ section {
     border-bottom: var(--border-light);
 }
 .profile-image {
+    background-image:url(./images/pic.png)
     width: 20%; /* Adjust this value to reduce the size as needed */
     
     margin: 15% 15% 30% 60%; /* This will push the image somewhat more to the right */
